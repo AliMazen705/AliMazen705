@@ -38,28 +38,18 @@
 - 🔹 Build **Web Applications** with **ASP.NET Core MVC & Web API**  
 - 🔹 Work with **Entity Framework Core, LINQ, SQL Server**  
 - 🔹 Apply **Clean Architecture & Repository Pattern**  
-- 🔹 Explore **Frontend Basics**: HTML, CSS, JS, Bootstrap  
+- 🔹 Explore **Frontend Basics**: HTML, CSS, Bootstrap  
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced **.NET Core APIs**  
 - **System Design & Clean Code**  
-- Improving **Problem Solving** (DS & Algo)  
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AliMazen&show_icons=true&theme=radical" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMazen&layout=compact&theme=radical" width="45%"/>
-</div>
 
 ---
 
 ## 📂 Featured Projects
-- 🛍️ **Prinsses Store POS System** – (Inventory, Sales, Barcode, Reports)  
 - 👨‍💼 **Employee Management System** – (MVC, EF Core, Identity)  
 - 📦 **E-Commerce API** – (RESTful API with Authentication & Pagination)  
 
