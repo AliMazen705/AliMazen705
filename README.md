@@ -22,10 +22,12 @@
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=flat&logo=nuget&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+[![Private Contributions](https://img.shields.io/badge/Private_Contributions-181717?style=flat&logo=github&logoColor=white)](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/manage-visibility-settings-for-private-contributions-and-achievements)
+
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -55,10 +57,5 @@
 
 ---
 
-## 📫 Reach Me
-📩 **alimazen09811@gmail.com**  
-📱 **01117738089**  
-
----
 
 ✨ *"Code. Learn. Build. Repeat."*  
