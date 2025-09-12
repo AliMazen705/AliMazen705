@@ -22,9 +22,7 @@
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=flat&logo=nuget&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-[![Private Contributions](https://img.shields.io/badge/Private_Contributions-181717?style=flat&logo=github&logoColor=white)](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/manage-visibility-settings-for-private-contributions-and-achievements)
-
-
+![OOP](https://img.shields.io/badge/-OOP-FF6F00?style=for-the-badge&logo=object-group&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
