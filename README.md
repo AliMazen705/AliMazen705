@@ -22,8 +22,11 @@
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-6DB33F?style=flat&logo=nuget&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-FF6F00?style=for-the-badge&logo=object-group&logoColor=white)
-
+![OOP](https://img.shields.io/badge/-OOP-239120?style=for-the-badge&logo=object-group&logoColor=white)  
+![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-0F172A?style=for-the-badge)  
+![Repository Pattern](https://img.shields.io/badge/-Repository_Pattern-6B7280?style=for-the-badge)  
+![Authentication](https://img.shields.io/badge/-Identity_%26_JWT-FF6B6B?style=for-the-badge)  
+ 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -37,7 +40,8 @@
 ## 📌 What I Do
 - 🔹 Build **Web Applications** with **ASP.NET Core MVC & Web API**  
 - 🔹 Work with **Entity Framework Core, LINQ, SQL Server**  
-- 🔹 Apply **Clean Architecture & Repository Pattern**  
+- 🔹 Apply **Clean Architecture & Repository Pattern**
+- - Implement **Authentication & Authorization** (Identity, JWT)  
 - 🔹 Explore **Frontend Basics**: HTML, CSS, Bootstrap  
 
 ---
