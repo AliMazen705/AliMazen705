@@ -38,12 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMazen705&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 
 </div>
-| ![AliMazen705's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMazen705&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMazen705&layout=compact&theme=radical) |
-|---|---|
 
-![AliMazen705's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMazen705&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMazen705&layout=compact&theme=radical)
 
 ## 📌 What I Do
 - 🔹 Build **Web Applications** with **ASP.NET Core MVC & Web API**  
