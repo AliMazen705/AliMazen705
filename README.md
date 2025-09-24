@@ -32,6 +32,11 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 
 ---
+### 📊 GitHub Stats:
+
+![AliMazen705's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliMazen705&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMazen705&layout=compact&theme=radical)
 
 ## 📌 What I Do
 - 🔹 Build **Web Applications** with **ASP.NET Core MVC & Web API**  
